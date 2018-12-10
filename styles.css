@@ -14,20 +14,22 @@ h2{
 body{
     background-color:rgb(234, 236, 239);
 }
-ol{
+
+ol,ul{
     font-family:helvetica;
-}
-ul{
-    font-family:monospace;
     font-size:large;
 }
-
-.fa{
+#icons{
     float:right;
-    padding: 20px;
-    margin:5px;
-    margin:20px;
+    padding:15px;
+    background-color:#f2efef;
 }
+.fa{
+    margin:30px;
+    padding:20px;
+}
+
+
 .fa:hover{
     color:blueviolet;
 }
