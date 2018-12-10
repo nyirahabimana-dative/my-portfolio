@@ -1,9 +1,47 @@
+h2{
+    text-shadow:3px 3px 5px #e0b1bf;
+    font-style: italic;
+    
+}
 .image{
-    border:5px solid black;
+    border:2px solid black;
     width:38%;
+   
+    
     
 
 }
 body{
     background-color:rgb(234, 236, 239);
 }
+ol{
+    font-family:helvetica;
+}
+ul{
+    font-family:monospace;
+    font-size:large;
+}
+
+.fa{
+    float:right;
+    padding: 20px;
+    margin:5px;
+    margin:20px;
+}
+.fa:hover{
+    color:blueviolet;
+}
+.fa-facebook {
+    background-color: #3B5998;
+    color: white;
+  }
+  .fa-instagram{
+      background-color: #e52760;
+      color:white;
+  }
+  .fa-github{
+      background-color: aquamarine;
+      color:white;
+  }
+  
+  
